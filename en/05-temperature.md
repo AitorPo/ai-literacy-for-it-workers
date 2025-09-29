@@ -215,4 +215,4 @@ Think of it as hiring different types of consultants for different types of work
 
 ---
 
-**Next**: Discover [Agents](./06-agent.md) and how AI can take actions, not just give advice.
+**Next**: Learn about [Tools](./06-tool.md) and the capabilities that enable AI agents to interact with the world.

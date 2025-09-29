@@ -268,4 +268,4 @@ Good context transforms AI from a generic tool into a knowledgeable assistant wh
 
 ---
 
-**Related Concepts**: [Prompt](./04-prompt.md) | [Fine-Tuning](./08-fine-tuning.md) | [Quick Reference](./quick-reference-cheat-sheet.md)
+**Related Concepts**: [Prompt](./04-prompt.md) | [Fine-Tuning](./09-fine-tuning.md) | [Quick Reference](./quick-reference-cheat-sheet.md)

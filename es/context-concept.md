@@ -238,4 +238,4 @@ Un buen contexto transforma la IA de una herramienta genérica en un asistente c
 
 ---
 
-**Conceptos Relacionados**: [Prompt](./04-prompt.md) | [Afinado](./08-fine-tuning.md) | [Referencia Rápida](./quick-reference-cheat-sheet.md)
+**Conceptos Relacionados**: [Prompt](./04-prompt.md) | [Afinado](./09-fine-tuning.md) | [Referencia Rápida](./quick-reference-cheat-sheet.md)

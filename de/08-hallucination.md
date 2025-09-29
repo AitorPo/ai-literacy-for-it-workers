@@ -228,4 +228,4 @@ Denken Sie an KI als einen **brillanten Praktikanten**, der großartig in Forsch
 
 ---
 
-**Weiter**: Lernen Sie über [Fine-Tuning](./08-fine-tuning.md) und wie Unternehmen spezialisierte KI-Modelle erstellen.
+**Weiter**: Lernen Sie über [Fine-Tuning](./09-fine-tuning.md) und wie Unternehmen spezialisierte KI-Modelle erstellen.

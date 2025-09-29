@@ -291,4 +291,4 @@ Think of AI training like **hiring someone with a specific educational backgroun
 
 ---
 
-**Related Concepts**: [Large Language Model](./01-large-language-model.md) | [Fine-Tuning](./08-fine-tuning.md) | [Hallucination](./07-hallucination.md)
+**Related Concepts**: [Large Language Model](./01-large-language-model.md) | [Fine-Tuning](./09-fine-tuning.md) | [Hallucination](./08-hallucination.md)

@@ -215,4 +215,4 @@ Denken Sie daran wie verschiedene Arten von Beratern für verschiedene Arten von
 
 ---
 
-**Weiter**: Entdecken Sie [Agenten](./06-agent.md) und wie KI Aktionen ausführen kann, nicht nur Ratschläge geben.
+**Weiter**: Entdecken Sie [Tools](./06-tool.md) und die Fähigkeiten, die KI-Agenten ermöglichen, mit der Welt zu interagieren.

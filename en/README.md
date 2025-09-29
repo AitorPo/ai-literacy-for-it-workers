@@ -30,32 +30,33 @@ Practical skills for daily AI interaction.
 Moving beyond basic text generation.
 
 7. **[Model](./02-model.md)** - Choosing the right AI tool for your task
-8. **[Agent](./06-agent.md)** - AI assistants that can take actions
+8. **[Tool](./06-tool.md)** - Capabilities that enable AI agents to interact with the world
+9. **[Agent](./07-agent.md)** - AI assistants that can take actions
 
 ### 🔴 **Risk Management & Quality** - Critical Safety Knowledge
 Understanding limitations and avoiding pitfalls.
 
-9. **[Hallucination](./07-hallucination.md)** - When AI makes things up (Critical for Safety)
-10. **[Training Concept](./training-concept.md)** - How AI learns and why it has limitations
+10. **[Hallucination](./08-hallucination.md)** - When AI makes things up (Critical for Safety)
+11. **[Training Concept](./training-concept.md)** - How AI learns and why it has limitations
 
 ### 🟣 **Specialized Topics** - For Advanced Users
 Enterprise and customization considerations.
 
-11. **[Fine-Tuning](./08-fine-tuning.md)** - Creating specialized AI for your organization
+12. **[Fine-Tuning](./09-fine-tuning.md)** - Creating specialized AI for your organization
 
 ### 📋 **Reference Materials** - Keep These Handy
 Quick lookup and practice resources.
 
-12. **[Quick Reference Cheat Sheet](./quick-reference-cheat-sheet.md)** - One-page reference for daily use
-13. **[Hands-On Examples](./hands-on-examples.md)** - Practice exercises and scenarios
+13. **[Quick Reference Cheat Sheet](./quick-reference-cheat-sheet.md)** - One-page reference for daily use
+14. **[Hands-On Examples](./hands-on-examples.md)** - Practice exercises and scenarios
 
 ## 🚀 Quick Start Paths
 
 ### **New to AI?** (Complete Beginner)
-Follow the full learning path: 1 → 2 → 3 → 4 → 9 → 12
+Follow the full learning path: 1 → 2 → 3 → 4 → 10 → 13
 
 ### **Have Some AI Experience?** (Skip Basics)
-Jump to: 2 → 4 → 5 → 6 → 9 → 12
+Jump to: 2 → 4 → 5 → 6 → 8 → 9 → 10 → 13
 
 ### **Need Quick Reference?** (Experienced User)
 Go directly to: [Quick Reference Cheat Sheet](./quick-reference-cheat-sheet.md)
@@ -64,7 +65,7 @@ Go directly to: [Quick Reference Cheat Sheet](./quick-reference-cheat-sheet.md)
 Start with: [Hands-On Examples](./hands-on-examples.md) then refer back to concepts
 
 ### **Enterprise Planning?** (Decision Makers)
-Focus on: 1 → 7 → 9 → 10 → 11
+Focus on: 1 → 7 → 8 → 9 → 10 → 11 → 12
 
 ## 💡 How to Use This Guide
 
@@ -111,7 +112,7 @@ Throughout this guide, remember:
 1. **Start here**: [Quick Reference Cheat Sheet](./quick-reference-cheat-sheet.md)
 2. **For context help**: [Context Concept](./context-concept.md)
 3. **For better prompts**: [Prompt](./04-prompt.md)
-4. **For safety concerns**: [Hallucination](./07-hallucination.md)
+4. **For safety concerns**: [Hallucination](./08-hallucination.md)
 5. **For practical examples**: [Hands-On Examples](./hands-on-examples.md)
 
 ## 🔄 Keep This Updated

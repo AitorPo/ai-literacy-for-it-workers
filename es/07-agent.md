@@ -170,4 +170,4 @@ Piensa en los agentes como **empleados de IA** que pueden manejar el trabajo rut
 
 ---
 
-**Siguiente**: Aprende sobre [Alucinación](./07-hallucination.md) y cómo detectar cuándo la IA inventa cosas.
+**Siguiente**: Aprende sobre [Alucinación](./08-hallucination.md) y cómo detectar cuándo la IA inventa cosas.

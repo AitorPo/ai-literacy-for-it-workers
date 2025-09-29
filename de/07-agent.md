@@ -230,4 +230,4 @@ Denken Sie an Agenten als **KI-Mitarbeiter**, die die Routinearbeit erledigen k�
 
 ---
 
-**Weiter**: Lernen Sie über [Halluzination](./07-hallucination.md) und wie Sie erkennen, wenn KI Dinge erfindet.
+**Weiter**: Lernen Sie über [Halluzination](./08-hallucination.md) und wie Sie erkennen, wenn KI Dinge erfindet.

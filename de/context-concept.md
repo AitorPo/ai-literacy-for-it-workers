@@ -268,4 +268,4 @@ Guter Kontext verwandelt KI von einem generischen Tool in einen sachkundigen Ass
 
 ---
 
-**Verwandte Konzepte**: [Prompt](./04-prompt.md) | [Fine-Tuning](./08-fine-tuning.md) | [Schnellreferenz](./quick-reference-cheat-sheet.md)
+**Verwandte Konzepte**: [Prompt](./04-prompt.md) | [Fine-Tuning](./09-fine-tuning.md) | [Schnellreferenz](./quick-reference-cheat-sheet.md)
