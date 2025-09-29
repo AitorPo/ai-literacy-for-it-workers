@@ -30,24 +30,25 @@ Habilidades prácticas para la interacción diaria con IA.
 Más allá de la generación básica de texto.
 
 7. **[Modelo](./02-model.md)** - Elegir la herramienta de IA correcta para tu tarea
-8. **[Agente](./06-agent.md)** - Asistentes de IA que pueden tomar acciones
+8. **[Herramienta](./06-tool.md)** - Capacidades que permiten a los agentes de IA interactuar con el mundo
+9. **[Agente](./07-agent.md)** - Asistentes de IA que pueden tomar acciones
 
 ### 🔴 **Gestión de Riesgos y Calidad** - Conocimiento Crítico de Seguridad
 Entender limitaciones y evitar obstáculos.
 
-9. **[Alucinación](./07-hallucination.md)** - Cuando la IA inventa cosas (Crítico para Seguridad)
-10. **[Concepto de Entrenamiento](./training-concept.md)** - Cómo aprende la IA y por qué tiene limitaciones
+10. **[Alucinación](./08-hallucination.md)** - Cuando la IA inventa cosas (Crítico para Seguridad)
+11. **[Concepto de Entrenamiento](./training-concept.md)** - Cómo aprende la IA y por qué tiene limitaciones
 
 ### 🟣 **Temas Especializados** - Para Usuarios Avanzados
 Consideraciones empresariales y de personalización.
 
-11. **[Fine-tuning](./08-fine-tuning.md)** - Crear IA especializada para tu organización
+12. **[Fine-tuning](./09-fine-tuning.md)** - Crear IA especializada para tu organización
 
 ### 📋 **Materiales de Referencia** - Manténlos a Mano
 Recursos de consulta rápida y práctica.
 
-12. **[Hoja de Referencia Rápida](./quick-reference-cheat-sheet.md)** - Referencia de una página para uso diario
-13. **[Ejemplos Prácticos](./hands-on-examples.md)** - Ejercicios de práctica y escenarios
+13. **[Hoja de Referencia Rápida](./quick-reference-cheat-sheet.md)** - Referencia de una página para uso diario
+14. **[Ejemplos Prácticos](./hands-on-examples.md)** - Ejercicios de práctica y escenarios
 
 ## 🚀 Rutas de Inicio Rápido
 
@@ -111,7 +112,7 @@ A lo largo de esta guía, recuerda:
 1. **Comienza aquí**: [Hoja de Referencia Rápida](./quick-reference-cheat-sheet.md)
 2. **Para ayuda de contexto**: [Concepto de Contexto](./context-concept.md)
 3. **Para mejores prompts**: [Prompt](./04-prompt.md)
-4. **Para preocupaciones de seguridad**: [Alucinación](./07-hallucination.md)
+4. **Para preocupaciones de seguridad**: [Alucinación](./08-hallucination.md)
 5. **Para ejemplos prácticos**: [Ejemplos Prácticos](./hands-on-examples.md)
 
 ## 🔄 Mantén Esto Actualizado

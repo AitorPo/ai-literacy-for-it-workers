@@ -30,24 +30,30 @@ Praktische Fähigkeiten für die tägliche KI-Interaktion.
 Über die grundlegende Textgenerierung hinausgehen.
 
 7. **[Modell](./02-model.md)** - Das richtige KI-Tool für Ihre Aufgabe wählen
-8. **[Agent](./06-agent.md)** - KI-Assistenten, die Aktionen ausführen können
+8. **[Tool](./06-tool.md)** - Fähigkeiten, die KI-Agenten ermöglichen, mit der Welt zu interagieren
+9. **[Agent](./07-agent.md)** - KI-Assistenten, die Aktionen ausführen können
 
 ### 🔴 **Risikomanagement & Qualität** - Kritisches Sicherheitswissen
 Grenzen verstehen und Fallstricke vermeiden.
 
-9. **[Halluzination](./07-hallucination.md)** - Wenn KI Dinge erfindet (Kritisch für Sicherheit)
-10. **[Trainings-Konzept](./training-concept.md)** - Wie KI lernt und warum sie Grenzen hat
+10. **[Halluzination](./08-hallucination.md)** - Wenn KI Dinge erfindet (Kritisch für Sicherheit)
+11. **[Trainings-Konzept](./training-concept.md)** - Wie KI lernt und warum sie Grenzen hat
 
 ### 🟣 **Spezialisierte Themen** - Für fortgeschrittene Benutzer
 Unternehmens- und Anpassungsüberlegungen.
 
-11. **[Fine-Tuning](./08-fine-tuning.md)** - Spezialisierte KI für Ihre Organisation erstellen
+12. **[Fine-Tuning](./09-fine-tuning.md)** - Spezialisierte KI für Ihre Organisation erstellen
+
+### 🟣 **Spezialisierte Themen** - Für fortgeschrittene Benutzer
+Unternehmens- und Anpassungsüberlegungen.
+
+11. **[Fine-Tuning](./09-fine-tuning.md)** - Spezialisierte KI für Ihre Organisation erstellen
 
 ### 📋 **Referenzmaterialien** - Griffbereit halten
 Schnelle Nachschlagemöglichkeiten und Übungsressourcen.
 
-12. **[Schnellreferenz-Spickzettel](./quick-reference-cheat-sheet.md)** - Einseitige Referenz für den täglichen Gebrauch
-13. **[Praktische Beispiele](./hands-on-examples.md)** - Übungen und Szenarien
+13. **[Schnellreferenz-Spickzettel](./quick-reference-cheat-sheet.md)** - Einseitige Referenz für den täglichen Gebrauch
+14. **[Praktische Beispiele](./hands-on-examples.md)** - Übungen und Szenarien
 
 ## 🚀 Schnelleinstiegswege
 
@@ -111,7 +117,7 @@ Denken Sie während dieses Leitfadens daran:
 1. **Hier beginnen**: [Schnellreferenz-Spickzettel](./quick-reference-cheat-sheet.md)
 2. **Für Kontexthilfe**: [Kontext-Konzept](./context-concept.md)
 3. **Für bessere Prompts**: [Prompt](./04-prompt.md)
-4. **Für Sicherheitsbedenken**: [Halluzination](./07-hallucination.md)
+4. **Für Sicherheitsbedenken**: [Halluzination](./08-hallucination.md)
 5. **Für praktische Beispiele**: [Praktische Beispiele](./hands-on-examples.md)
 
 ## 🔄 Halten Sie dies aktuell

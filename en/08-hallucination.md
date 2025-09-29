@@ -228,4 +228,4 @@ Think of AI as a **brilliant intern** who's great at research and writing but so
 
 ---
 
-**Next**: Learn about [Fine-Tuning](./08-fine-tuning.md) and how companies create specialized AI models.
+**Next**: Learn about [Fine-Tuning](./09-fine-tuning.md) and how companies create specialized AI models.

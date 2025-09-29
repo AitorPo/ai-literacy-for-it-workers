@@ -261,4 +261,4 @@ Entender el entrenamiento te ayuda a usar la IA de manera más efectiva trabajan
 
 ---
 
-**Conceptos Relacionados**: [Alucinación](./07-hallucination.md) | [Afinado](./08-fine-tuning.md) | [Referencia Rápida](./quick-reference-cheat-sheet.md)
+**Conceptos Relacionados**: [Alucinación](./08-hallucination.md) | [Afinado](./09-fine-tuning.md) | [Referencia Rápida](./quick-reference-cheat-sheet.md)

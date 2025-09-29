@@ -171,4 +171,4 @@ La alucinación es una **característica inherente** de cómo funciona la IA, no
 
 ---
 
-**Siguiente**: Aprende sobre [Afinado](./08-fine-tuning.md) y cómo crear IA especializada para tu organización.
+**Siguiente**: Aprende sobre [Afinado](./09-fine-tuning.md) y cómo crear IA especializada para tu organización.

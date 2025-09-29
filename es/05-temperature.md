@@ -188,4 +188,4 @@ Piénsalo como contratar diferentes tipos de consultores para diferentes tipos d
 
 ---
 
-**Siguiente**: Descubre [Agentes](./06-agent.md) y cómo la IA puede tomar acciones, no solo dar consejos.
+**Siguiente**: Descubre [Herramientas](./06-tool.md) y las capacidades que permiten a los agentes de IA interactuar con el mundo.

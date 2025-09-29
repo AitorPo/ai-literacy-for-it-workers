@@ -291,4 +291,4 @@ Denken Sie an KI-Training wie **jemanden mit einem spezifischen Bildungshintergr
 
 ---
 
-**Verwandte Konzepte**: [Large Language Model](./01-large-language-model.md) | [Fine-Tuning](./08-fine-tuning.md) | [Halluzination](./07-hallucination.md)
+**Verwandte Konzepte**: [Large Language Model](./01-large-language-model.md) | [Fine-Tuning](./09-fine-tuning.md) | [Halluzination](./08-hallucination.md)

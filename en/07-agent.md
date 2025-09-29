@@ -230,4 +230,4 @@ Think of agents as **AI employees** that can handle the routine work, freeing yo
 
 ---
 
-**Next**: Learn about [Hallucination](./07-hallucination.md) and how to spot when AI makes things up.
+**Next**: Learn about [Hallucination](./08-hallucination.md) and how to spot when AI makes things up.
