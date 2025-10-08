@@ -47,3 +47,4 @@ Esta guía enfatiza el uso seguro y responsable de IA con pautas prácticas para
 
 - [🇺🇸 English](./README-en.md)
 - [🇩🇪 Deutsch](./README-de.md)
+- [🇯🇵 日本語](./README-ja.md)

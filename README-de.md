@@ -47,3 +47,4 @@ Dieser Leitfaden betont die sichere, verantwortungsvolle KI-Nutzung mit praktisc
 
 - [🇺🇸 English](./README-en.md)
 - [🇪🇸 Español](./README-es.md)
+- [🇯🇵 日本語](./README-ja.md)
