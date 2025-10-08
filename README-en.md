@@ -47,3 +47,4 @@ This guide emphasizes safe, responsible AI usage with practical guidelines for a
 
 - [🇩🇪 Deutsch](./README-de.md)
 - [🇪🇸 Español](./README-es.md)
+- [🇯🇵 日本語](./README-ja.md)
